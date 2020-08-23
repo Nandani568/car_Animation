@@ -14,7 +14,7 @@ body{
     position: absolute;
 }
 
-.trees{
+.city{
     height: 100vh;
     width: 100%;
     background-image: url(city.png);
